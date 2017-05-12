@@ -13,7 +13,7 @@ Fax (617) 432-7663.
 or the first author:
 rmccole@genetics.med.harvard.edu
 
-—————————————————————
+___________________
 
 Accessory text files have suffix .txt or .bed
 
@@ -58,6 +58,7 @@ collapsecoordinates.py and coordinateoverlaps.py prepare files containing region
 
 Enrichment analysis is performed with enrichment_driver.py. All accessory files are required, in addition to files listing the coordinates of the UCEs of interest.
 
+___________________
 
 2. UCE-to-breakpoint distances analysis (see Methods)
 
@@ -77,6 +78,7 @@ distances3.py bins and calculates frequency counts that can be plotted as a hist
 
 AndersonDarling.py performs Anderson-Darling test on distances produced by distances2.py.
 
+___________________
 
 3. Partial correlation (see Methods)
 
@@ -95,7 +97,7 @@ partial2.py carries out partial correlation analysis.
 
 ________________________
 
-Usage:
+General usage:
 
 Each script is equipped with a help message, accessed from the command line by using the argument -h.
 
