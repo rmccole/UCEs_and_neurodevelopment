@@ -21,19 +21,33 @@ Python script requirements:
 Python version 2.7
 
 Modules required:
+
 argparse
+
 collections
+
 logging
+
 math
+
 matlab.engine
+
 matplotlib
+
 numpy
+
 os
+
 pandas
+
 pybedtools
+
 random
+
 scipy
+
 seaborn
+
 sys
 ___________________
 
