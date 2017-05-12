@@ -14,6 +14,7 @@ or the first author:
 rmccole@genetics.med.harvard.edu
 
 —————————————————————
+
 Accessory text files have suffix .txt or .bed
 
 Python script requirements:
