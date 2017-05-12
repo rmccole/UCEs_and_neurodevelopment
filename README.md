@@ -1,6 +1,3 @@
-README
-
-UCEs and neurodevelopment
 
 Python scripts and accessory files released to accompany the manuscript entitled “Disruption of ultraconserved elements by copy number variation or chromosome rearrangement is associated with neurodevelopmental phenotypes” by Ruth B. McCole, Wren Saylor, Claire Redin, Chamith Y. Fonseka, Harrison Brand, Jelena Erceg, Michael E. Talkowski, and C.-ting Wu.
 
